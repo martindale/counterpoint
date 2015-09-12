@@ -1,10 +1,3 @@
----
-title: A 10,000 Foot View
-author: gordon
-date: 2015-08-23
-template: article.jade
----
-
 Counterpoint is a free non-profit hackerspace facilitating the exploration of 
 4 primary areas: Computer Hacking, Multimedia Hacking, UAV Hacking, and Art 
 Hacking. The purpose of this writing is to provide a high-level overview of our 
