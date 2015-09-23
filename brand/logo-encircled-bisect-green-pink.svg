@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo-encircled-bisect-green-pink.svg">
+  <title
+     id="title3391">Counterpoint Hackerspace</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="319.09748"
+     inkscape:cy="242.9888"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1916"
+     inkscape:window-height="1033"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="px"
+     inkscape:showpageshadow="false"
+     borderlayer="true">
+    <sodipodi:guide
+       position="0,371.4836"
+       orientation="1,0"
+       id="guide3365" />
+    <sodipodi:guide
+       position="181.82746,0.25253814"
+       orientation="0,1"
+       id="guide3369" />
+    <sodipodi:guide
+       position="511.95794,388.46679"
+       orientation="1,0"
+       id="guide3373" />
+    <sodipodi:guide
+       position="197.5,512.14286"
+       orientation="0,1"
+       id="guide3375" />
+    <sodipodi:guide
+       position="256.00446,292.79018"
+       orientation="1,0"
+       id="guide3389" />
+    <sodipodi:guide
+       position="-97.1875,255.98214"
+       orientation="0,1"
+       id="guide4278" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Counterpoint Hackerspace</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:date>09/23/2015</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Gordon Hall</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <path
+       style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#8dd35f;fill-opacity:1;stroke:none;stroke-width:14;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 255.45117,4.6425781 C 163.59373,4.6570217 79.110804,54.942643 35.300781,135.67969 L 254.08008,104.70117 238.28711,132.05664 52.679688,167.17969 97.181641,338.9707 420.37695,66.849609 C 374.75273,26.819353 316.14702,4.7143332 255.45117,4.6425781 Z"
+       id="path4287" />
+    <path
+       style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:14;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 443.12891,89.689453 93.064453,383.43164 64.357422,366.60742 64.466797,366.51562 17.986328,176.02539 C 9.4135044,201.53209 5.0061194,228.25338 4.9335938,255.16211 5.0309576,316.7979 27.846976,376.23456 69.017578,422.10352 l 342.748042,-292.78711 27.94336,16.13281 0.10157,0.0234 0.0137,0.043 0.5,0.28907 -0.33008,0.28125 54.57813,183.16601 c 7.46842,-23.90524 11.30996,-48.79527 11.39648,-73.83984 -0.11493,-60.98128 -22.46897,-120.04554 -62.87109,-165.722657 z"
+       id="path4285" />
+    <path
+       style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#de87cd;fill-opacity:1;stroke:none;stroke-width:14;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 480.66992,364.4336 -229.33398,42.85546 15.8789,-27.5039 L 459.1582,333.68945 413.19336,168.62891 90.367188,443.17773 c 45.622342,40.17296 104.295402,62.38699 165.083982,62.50196 95.91868,-0.0826 183.37764,-54.93433 225.21875,-141.24609 z"
+       id="path4184" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-540.36219)">
+    <g
+       id="g3350"
+       style="font-style:normal;font-weight:normal;font-size:342.8788147px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.0366163,0,0,1.0366163,-93.593486,518.9952)" />
+  </g>
+</svg>
